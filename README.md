@@ -1,12 +1,13 @@
 <h1 align="center">💼 Muhammad Usman Ali Khan Hannan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=60&lines=Computer%20Operator;Data%20Analyst;Accountant" alt="Typing SVG"/>
+---
+<h2 align="left" style="font-size: 30px;">👨‍💻 About Me</h2>
+
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/iT4mD0DeQUZE4Ghjt3/giphy.gif" width="250" alt="Accountant at work animation">
 </p>
 
 
----
-<h2 align="left" style="font-size: 30px;">👨‍💻 About Me</h2>
 
 
 🎓 **BS in Accounting & Finance** — Virtual University (Ongoing)  
