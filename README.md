@@ -4,9 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=60&lines=Computer%20Operator;Data%20Analyst;Accountant" alt="Typing SVG"/>
 </p>
 
----
 
-### 👨‍💻 About Me  
+---
+<h2 align="left" style="font-size: 30px;">👨‍💻 About Me</h2>
+
 
 🎓 **BS in Accounting & Finance** — Virtual University (Ongoing)  
 💼 Former **Accountant & Computer Operator** at *Al Huda Medical Centre (2022–2024)*  
